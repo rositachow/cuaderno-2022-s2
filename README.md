@@ -1,1 +1,4 @@
-# cuaderno-2022-s2
+# introduccion a la programacion
+# semestre 2022
+
+**Autor rosita chow**
